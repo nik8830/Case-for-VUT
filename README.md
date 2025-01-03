@@ -10,7 +10,7 @@ It can fit 4 trackers and the dongle but unfortunately there's no space for your
 
 * All parts are already in the correct printing orientation.
 * It's very important that you use supports and as little as possible top Z spacing, so the hooks print correctly. If they don't print correctly or you didn't remove all supports, you'll notice that the trackers won't click in place, or they don't hold well enough. If that's the case, you can try and sand the underside of these hooks.
-* Use only PLA, ABS will warp no matter what, even after it's done printing.   
+* Use only PLA, or PETG. ABS will warp no matter what, even after it's done printing.   
 * Print with 3 walls and at least 15% infill.
 * If you're doing the logo version in multicolor, import both (Lid with Logo.stl) and (Logo for multicolor.stl) at the same time as a single object with multiple parts, otherwise the logo won't line up correctly.   
    
